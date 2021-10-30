@@ -8,7 +8,9 @@ let respuesta_nombre =
   "! Tu nombre es algo extraño en mi mundo, pero me acostumbraré.";
 alert(respuesta_nombre);
 
-let edad_usuario = prompt("Sigamos conociéndonos. ¿En qué año naciste?");
+let edad_usuario = prompt(
+  "Sigamos conociéndonos. Por favor, dime el año en el que naciste."
+);
 
 let respuesta_edad =
   "Oh, veo que tienes aproximádamente " +
