@@ -21,7 +21,7 @@ alert(respuesta_edad);
 
 let preguntalibre = prompt("¿Tu que piensas acerca de eso?");
 let respuestalibre =
-  "Bien, tu opinión me parece interesante. Hoy eh aprendido algo nuevo.";
+  "Bien, tu opinión me parece interesante. Hoy he aprendido algo nuevo.";
 alert(respuestalibre);
 
 let problema_usuario = prompt(
